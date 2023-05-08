@@ -1,8 +1,6 @@
 # PaginationExample
 Simple Pagination Example
 
-before run:
-run 'npm i' to install dependency
-
-to run this project:
-run 'npm run serve'
+run project:
+1. run 'npm i'
+2. run 'npm run serve'
